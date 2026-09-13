@@ -1,5 +1,7 @@
 # 🏠 NYC Airbnb End-to-End Data Engineering & Business Analytics Project
 
+Note: Due to file size limitations, the raw uncleaned CSV file is excluded. The entire cleaning, transformation, and Parquet export process can be executed and reviewed directly via the included Python notebook (.ipynb).
+
 This project encompasses an end-to-end data cleaning, validation, engineering, and business analytics workflow on the New York City (NYC) Airbnb dataset. Designed with a data-integrity-first approach, the process resolves spatial inconsistencies without introducing synthetic bias, manages non-standard missing values, eliminates logical outliers, and standardizes data schemas. The cleaned dataset was exported in Parquet format and ingested into Power BI, where a 4-page interactive dashboard was built to model market dynamics, host portfolio structures, and customer satisfaction metrics.
 
 ---
